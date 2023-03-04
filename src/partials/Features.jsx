@@ -84,7 +84,7 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building the Simple ecosystem</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">YOU ARE IN CHARGE</div>
                     <div className="text-gray-600">By bypassing traditional financial systems, like banks or governments, TSC Ledger gives you full control over your money. You don’t need to rely on anyone or anything else. Over the long term, you can grow without much effort, through lending or staking.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
