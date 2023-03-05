@@ -70,7 +70,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">GROW YOUR ASSETS</div>
-                    <div className="text-gray-600">Keep your assets safe as they generate revenues. You can grow your crypto by staking your Tezos, Tron, or Cosmos directly in Ledger Live. Or simply lend your USDC and USDT and let your assets do the work.</div>
+                    <div className="text-gray-600">Keep your assets safe as they generate revenues. You can grow your assets by staking your Tezos, Tron, or Cosmos directly in Ledger Live. Or simply lend your USDC and USDT and let your assets do the work.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
