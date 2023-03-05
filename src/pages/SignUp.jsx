@@ -96,7 +96,7 @@ function SignUp() {
 
                   <div className="flex flex-wrap -mx-3 mb-4">
                     <div className="w-full px-3">
-                       <input type="radio" id="fedex" name="shipping_method" value="FEDEX">
+                       <input type="radio" id="fedex" name="shipping_method" value="FEDEX"/>
                        <label for="fedex">Express Shipping with Fedex Express (2-3 Business Days)</label>
                        <h4>FREE</h4>
                    </div>
@@ -104,7 +104,7 @@ function SignUp() {
 
                   <div className="flex flex-wrap -mx-3 mb-4">
                     <div className="w-full px-3">
-                       <input type="radio" id="dhl" name="shipping_method" value="DHL">
+                       <input type="radio" id="dhl" name="shipping_method" value="DHL"/>
                        <label for="fedex">Express Shipping with DHL Express (2-4 Business Days)</label>
                        <h4>FREE</h4>
                    </div>
